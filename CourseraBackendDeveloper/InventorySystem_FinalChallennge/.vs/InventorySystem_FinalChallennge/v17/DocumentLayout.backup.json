@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET_Learning_Path\\Coursera_BackendDeveloper\\Course01_FoundationsOFCodingBackend\\InventorySystem_FinalChallennge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1E5CA7-06D4-4E97-8AB6-A7D826B5E55E}|InventorySystem_FinalChallennge\\InventorySystem_FinalChallennge.csproj|d:\\net_learning_path\\coursera_backenddeveloper\\course01_foundationsofcodingbackend\\inventorysystem_finalchallennge\\inventorysystem_finalchallennge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1E5CA7-06D4-4E97-8AB6-A7D826B5E55E}|InventorySystem_FinalChallennge\\InventorySystem_FinalChallennge.csproj|solutionrelative:inventorysystem_finalchallennge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NET_Learning_Path\\Coursera_BackendDeveloper\\Course01_FoundationsOFCodingBackend\\InventorySystem_FinalChallennge\\InventorySystem_FinalChallennge\\Program.cs",
+              "RelativeDocumentMoniker": "InventorySystem_FinalChallennge\\Program.cs",
+              "ToolTip": "D:\\NET_Learning_Path\\Coursera_BackendDeveloper\\Course01_FoundationsOFCodingBackend\\InventorySystem_FinalChallennge\\InventorySystem_FinalChallennge\\Program.cs",
+              "RelativeToolTip": "InventorySystem_FinalChallennge\\Program.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAgwIoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T14:21:15.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
