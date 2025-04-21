@@ -1,0 +1,15 @@
+D:\NET_Learning_Path\DotNetFramework\BuildNetAppC-\DotNetDebugging\bin\Debug\net9.0\DotNetDebugging.exe
+D:\NET_Learning_Path\DotNetFramework\BuildNetAppC-\DotNetDebugging\bin\Debug\net9.0\DotNetDebugging.deps.json
+D:\NET_Learning_Path\DotNetFramework\BuildNetAppC-\DotNetDebugging\bin\Debug\net9.0\DotNetDebugging.runtimeconfig.json
+D:\NET_Learning_Path\DotNetFramework\BuildNetAppC-\DotNetDebugging\bin\Debug\net9.0\DotNetDebugging.dll
+D:\NET_Learning_Path\DotNetFramework\BuildNetAppC-\DotNetDebugging\bin\Debug\net9.0\DotNetDebugging.pdb
+D:\NET_Learning_Path\DotNetFramework\BuildNetAppC-\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET_Learning_Path\DotNetFramework\BuildNetAppC-\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.AssemblyInfoInputs.cache
+D:\NET_Learning_Path\DotNetFramework\BuildNetAppC-\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.AssemblyInfo.cs
+D:\NET_Learning_Path\DotNetFramework\BuildNetAppC-\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+D:\NET_Learning_Path\DotNetFramework\BuildNetAppC-\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.sourcelink.json
+D:\NET_Learning_Path\DotNetFramework\BuildNetAppC-\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.dll
+D:\NET_Learning_Path\DotNetFramework\BuildNetAppC-\DotNetDebugging\obj\Debug\net9.0\refint\DotNetDebugging.dll
+D:\NET_Learning_Path\DotNetFramework\BuildNetAppC-\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.pdb
+D:\NET_Learning_Path\DotNetFramework\BuildNetAppC-\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.genruntimeconfig.cache
+D:\NET_Learning_Path\DotNetFramework\BuildNetAppC-\DotNetDebugging\obj\Debug\net9.0\ref\DotNetDebugging.dll
