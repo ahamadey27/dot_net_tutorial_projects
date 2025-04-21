@@ -1,0 +1,12 @@
+GET http://localhost:5202/users/1/posts/new-text
+
+###
+GET http://localhost:5202/products/15
+
+###
+
+GET http://localhost:5202/report/2025
+
+###
+
+GET http://localhost:5202/search?q=dotnet&page=2

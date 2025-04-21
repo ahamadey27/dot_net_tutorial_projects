@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ByY+GXv4gmj4yqHpwxX9mMLj+aCbqFFfO4WuNEA45WM=",
+  "Source": "BasicAPIEndpoints",
+  "BasePath": "_content/BasicAPIEndpoints",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

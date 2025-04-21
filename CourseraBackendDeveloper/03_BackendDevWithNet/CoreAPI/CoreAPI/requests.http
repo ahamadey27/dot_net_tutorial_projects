@@ -1,0 +1,18 @@
+GET http://localhost:5222
+
+###
+
+GET http://localhost:5222/blogs
+
+###
+
+GET http://localhost:5222/blogs/1
+
+###
+
+PUT http://localhost:5222/blogs/
+Content-Type: application/json
+{
+    "title": "Third blog",
+    "body": "Contents of third blog"
+}

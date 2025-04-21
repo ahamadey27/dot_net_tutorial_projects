@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "3D5SmeNrTGT2GkCtIIC1UhJKyz4LMUGdRuwB5wTE8CQ=",
+  "Source": "AdvancedRouting",
+  "BasePath": "_content/AdvancedRouting",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
