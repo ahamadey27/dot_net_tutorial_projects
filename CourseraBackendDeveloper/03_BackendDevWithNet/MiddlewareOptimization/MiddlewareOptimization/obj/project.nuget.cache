@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UrE0JD666ak=",
+  "success": true,
+  "projectFilePath": "D:\\NET_Learning_Path\\CourseraBackendDeveloper\\03_BackendDevelopmentWithNET\\MiddlewareOptimization\\MiddlewareOptimization\\MiddlewareOptimization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamad\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\hamad\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

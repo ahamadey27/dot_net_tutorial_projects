@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5CzfD6XapNCyoOYyvMt8BUfjeoyV0gdvr1elBdhCbRM=",
+  "Source": "SecuringDeserialSerialization",
+  "BasePath": "_content/SecuringDeserialSerialization",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

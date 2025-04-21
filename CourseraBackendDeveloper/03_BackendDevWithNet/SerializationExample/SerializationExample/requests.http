@@ -1,0 +1,19 @@
+### Manual JSON Serizlization
+
+GET http://localhost:5016/manual-json
+Accept: application/json
+
+### Automatic JSON Serizlization
+
+GET http://localhost:5016/json
+Accept: application/json
+
+### Automatic JSON Serizlization
+
+GET http://localhost:5016/auto
+Accept: application/json
+
+### Custom JSON Serizlization
+
+GET http://localhost:5016/custom-serializer
+Accept: application/json

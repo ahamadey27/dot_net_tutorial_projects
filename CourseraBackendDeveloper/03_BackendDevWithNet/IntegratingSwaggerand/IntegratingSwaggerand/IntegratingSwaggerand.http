@@ -1,0 +1,6 @@
+@IntegratingSwaggerandGeneratingAPIClients_HostAddress = http://localhost:5228
+
+GET {{IntegratingSwaggerandGeneratingAPIClients_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
