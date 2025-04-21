@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET_Learning_Path\\Coursera_BackendDeveloper\\Course01_FoundationsOFCodingBackend\\TaskManagerFinalPrject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{162CBDAF-E3AD-4012-ACB6-7CA4BF009DA5}|TaskManagerFinalPrject\\TaskManagerFinalPrject.csproj|d:\\net_learning_path\\coursera_backenddeveloper\\course01_foundationsofcodingbackend\\taskmanagerfinalprject\\taskmanagerfinalprject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162CBDAF-E3AD-4012-ACB6-7CA4BF009DA5}|TaskManagerFinalPrject\\TaskManagerFinalPrject.csproj|solutionrelative:taskmanagerfinalprject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NET_Learning_Path\\Coursera_BackendDeveloper\\Course01_FoundationsOFCodingBackend\\TaskManagerFinalPrject\\TaskManagerFinalPrject\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagerFinalPrject\\Program.cs",
+              "ToolTip": "D:\\NET_Learning_Path\\Coursera_BackendDeveloper\\Course01_FoundationsOFCodingBackend\\TaskManagerFinalPrject\\TaskManagerFinalPrject\\Program.cs",
+              "RelativeToolTip": "TaskManagerFinalPrject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T23:17:23.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
