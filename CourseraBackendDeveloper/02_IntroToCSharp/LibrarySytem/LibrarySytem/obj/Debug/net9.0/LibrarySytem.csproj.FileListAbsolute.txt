@@ -1,0 +1,15 @@
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\LibrarySytem\LibrarySytem\bin\Debug\net9.0\LibrarySytem.exe
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\LibrarySytem\LibrarySytem\bin\Debug\net9.0\LibrarySytem.deps.json
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\LibrarySytem\LibrarySytem\bin\Debug\net9.0\LibrarySytem.runtimeconfig.json
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\LibrarySytem\LibrarySytem\bin\Debug\net9.0\LibrarySytem.dll
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\LibrarySytem\LibrarySytem\bin\Debug\net9.0\LibrarySytem.pdb
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\LibrarySytem\LibrarySytem\obj\Debug\net9.0\LibrarySytem.GeneratedMSBuildEditorConfig.editorconfig
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\LibrarySytem\LibrarySytem\obj\Debug\net9.0\LibrarySytem.AssemblyInfoInputs.cache
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\LibrarySytem\LibrarySytem\obj\Debug\net9.0\LibrarySytem.AssemblyInfo.cs
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\LibrarySytem\LibrarySytem\obj\Debug\net9.0\LibrarySytem.csproj.CoreCompileInputs.cache
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\LibrarySytem\LibrarySytem\obj\Debug\net9.0\LibrarySytem.sourcelink.json
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\LibrarySytem\LibrarySytem\obj\Debug\net9.0\LibrarySytem.dll
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\LibrarySytem\LibrarySytem\obj\Debug\net9.0\refint\LibrarySytem.dll
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\LibrarySytem\LibrarySytem\obj\Debug\net9.0\LibrarySytem.pdb
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\LibrarySytem\LibrarySytem\obj\Debug\net9.0\LibrarySytem.genruntimeconfig.cache
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\LibrarySytem\LibrarySytem\obj\Debug\net9.0\ref\LibrarySytem.dll

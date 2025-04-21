@@ -1,0 +1,15 @@
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\ToDoListExercise\ToDoListExercise\bin\Debug\net9.0\ToDoListExercise.exe
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\ToDoListExercise\ToDoListExercise\bin\Debug\net9.0\ToDoListExercise.deps.json
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\ToDoListExercise\ToDoListExercise\bin\Debug\net9.0\ToDoListExercise.runtimeconfig.json
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\ToDoListExercise\ToDoListExercise\bin\Debug\net9.0\ToDoListExercise.dll
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\ToDoListExercise\ToDoListExercise\bin\Debug\net9.0\ToDoListExercise.pdb
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\ToDoListExercise\ToDoListExercise\obj\Debug\net9.0\ToDoListExercise.GeneratedMSBuildEditorConfig.editorconfig
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\ToDoListExercise\ToDoListExercise\obj\Debug\net9.0\ToDoListExercise.AssemblyInfoInputs.cache
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\ToDoListExercise\ToDoListExercise\obj\Debug\net9.0\ToDoListExercise.AssemblyInfo.cs
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\ToDoListExercise\ToDoListExercise\obj\Debug\net9.0\ToDoListExercise.csproj.CoreCompileInputs.cache
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\ToDoListExercise\ToDoListExercise\obj\Debug\net9.0\ToDoListExercise.sourcelink.json
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\ToDoListExercise\ToDoListExercise\obj\Debug\net9.0\ToDoListExercise.dll
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\ToDoListExercise\ToDoListExercise\obj\Debug\net9.0\refint\ToDoListExercise.dll
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\ToDoListExercise\ToDoListExercise\obj\Debug\net9.0\ToDoListExercise.pdb
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\ToDoListExercise\ToDoListExercise\obj\Debug\net9.0\ToDoListExercise.genruntimeconfig.cache
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\ToDoListExercise\ToDoListExercise\obj\Debug\net9.0\ref\ToDoListExercise.dll
