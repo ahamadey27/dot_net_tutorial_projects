@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AsyncMethodExercise/1.0.0": {
+        "runtime": {
+          "AsyncMethodExercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AsyncMethodExercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

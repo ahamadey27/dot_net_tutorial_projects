@@ -1,0 +1,15 @@
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\AsyncMethodExercise\AsyncMethodExercise\bin\Debug\net9.0\AsyncMethodExercise.exe
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\AsyncMethodExercise\AsyncMethodExercise\bin\Debug\net9.0\AsyncMethodExercise.deps.json
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\AsyncMethodExercise\AsyncMethodExercise\bin\Debug\net9.0\AsyncMethodExercise.runtimeconfig.json
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\AsyncMethodExercise\AsyncMethodExercise\bin\Debug\net9.0\AsyncMethodExercise.dll
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\AsyncMethodExercise\AsyncMethodExercise\bin\Debug\net9.0\AsyncMethodExercise.pdb
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\AsyncMethodExercise\AsyncMethodExercise\obj\Debug\net9.0\AsyncMethodExercise.GeneratedMSBuildEditorConfig.editorconfig
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\AsyncMethodExercise\AsyncMethodExercise\obj\Debug\net9.0\AsyncMethodExercise.AssemblyInfoInputs.cache
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\AsyncMethodExercise\AsyncMethodExercise\obj\Debug\net9.0\AsyncMethodExercise.AssemblyInfo.cs
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\AsyncMethodExercise\AsyncMethodExercise\obj\Debug\net9.0\AsyncMethodExercise.csproj.CoreCompileInputs.cache
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\AsyncMethodExercise\AsyncMethodExercise\obj\Debug\net9.0\AsyncMethodExercise.sourcelink.json
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\AsyncMethodExercise\AsyncMethodExercise\obj\Debug\net9.0\AsyncMethodExercise.dll
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\AsyncMethodExercise\AsyncMethodExercise\obj\Debug\net9.0\refint\AsyncMethodExercise.dll
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\AsyncMethodExercise\AsyncMethodExercise\obj\Debug\net9.0\AsyncMethodExercise.pdb
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\AsyncMethodExercise\AsyncMethodExercise\obj\Debug\net9.0\AsyncMethodExercise.genruntimeconfig.cache
+d:\NET_Learning_Path\CourseraBackendDeveloper\02_IntoToProgrammingC-\AsyncMethodExercise\AsyncMethodExercise\obj\Debug\net9.0\ref\AsyncMethodExercise.dll
